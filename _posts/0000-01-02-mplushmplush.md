@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: M Plus H
 ---
-Your text
+Learning to code again.
 Use the left arrow to go back!
